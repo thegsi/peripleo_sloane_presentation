@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus",
+      "name": "Sloane lab KB",
       "format": "LINKED_PLACES",
       "src": "./data/BM_peripleo_hack.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
